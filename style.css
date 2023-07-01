@@ -1,0 +1,7 @@
+body{
+ background:blue;
+ display:flex;
+ font-family:'quicksand';
+ text-align: center;
+ border: 0;
+}
